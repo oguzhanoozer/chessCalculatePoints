@@ -1,6 +1,6 @@
 # chessCalculatePoints
-To run Project
-Download Chess Folder.
+To run Project:
+Download ChessCalculatePointst(GUI) Folder.
 Then unzip the folder and open IDE for java.
 import chess project.
 then open Create_Frame_Main file and run as Java Application.
